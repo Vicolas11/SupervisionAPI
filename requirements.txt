@@ -1,7 +1,7 @@
 fastapi==0.110.3
 inference==0.15.1
 numpy==1.26.4
-opencv-python==4.10.0.84
+opencv-python
 supervision==0.22.0
 typing-extensions==4.12.2
 typing-inspect==0.9.0
